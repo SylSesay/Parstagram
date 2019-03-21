@@ -1,8 +1,8 @@
-# Parstagram - Part I
+# Parstagram - Part I & II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-Time spent: **7** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
